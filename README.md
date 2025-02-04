@@ -1,6 +1,8 @@
 # Hi there! 👋  
 
-I’m a passionate **Full Stack Developer & DevOps Engineer** based in **Islamabad, Pakistan**, with nearly **one year of professional experience** in **MERN Stack, DevOps, and Cloud Technologies**. I thrive on solving complex problems and building scalable applications.  
+I’m a passionate **Full Stack Developer & DevOps Engineer** based in **Islamabad, Pakistan**, with nearly **one year of professional experience** in **MERN Stack, DevOps, and Cloud Technologies**. I thrive on solving complex problems and building scalable applications.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=samansaeed2306)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 About Me  
 - 🔭 I’m currently working on an **interactive video annotation project** that combines **MERN, Fabric.js, and WebM processing** to enhance video-based collaboration.  
