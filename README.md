@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I’m an **N8N Automation Engineer, Full Stack Developer & DevOps Engineer** based in **Islamabad, Pakistan**, with nearly **one year of professional experience** in **MERN Stack, DevOps, and Cloud Technologies**. I thrive on solving complex problems and building scalable applications.
+I’m an **N8N Automation Engineer, Full Stack Developer & DevOps Engineer** based in **Islamabad, Pakistan**, with over **one and half year of professional experience** in **MERN Stack, DevOps, PHP and Cloud Technologies**. I thrive on solving complex problems and building scalable applications.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samansaeed2306)](https://github.com/ryo-ma/github-profile-trophy)
 
